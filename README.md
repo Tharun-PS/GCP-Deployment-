@@ -1,1 +1,8 @@
-# GCP-Deployment-Admission predictor Based on GRE score, University Rank, CGPA and other factors
+# GCP-Deployment-Admission predictor 
+predicts the percentage of admission given
+- GRE Score
+- TOEFL score
+- University Ranking 
+- SOP score
+- LOR score
+- CGPA
