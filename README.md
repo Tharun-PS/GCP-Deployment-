@@ -1,5 +1,5 @@
 # GCP-Deployment-Admission predictor 
-predicts the percentage of admission given
+predicts the percentage of chance to get admission given
 - GRE Score
 - TOEFL score
 - University Ranking 
